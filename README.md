@@ -1,2 +1,2 @@
-# openpose_C-_test
+# openpose_C++_test
 openpose C++ demo测试
